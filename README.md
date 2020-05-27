@@ -1,4 +1,4 @@
-# ADAR-Assignment2
+# System Modulation of a Hairdryer (ADAR-Assignment2)
 System modulation of an laboratory scale "hairdryer"
 
 MATLAB; Simulink; System Modulation
